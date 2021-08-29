@@ -1,0 +1,63 @@
+.upper{
+    background: rgb(135,206,235);
+    background-image: url(imgsource\redproject.jpg);
+    width: 50rem; 
+    padding: 2rem;
+    margin: .5rem auto;
+    border-radius: 5rem;
+}
+body{
+    margin: 8px;
+    padding: 0px;
+    margin-right: 7px;
+    background: rgb(250,235,215);
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    margin: 0;
+    font-weight: 400;
+}
+h2{
+    margin: 0;
+    font-weight: 400;
+    display: inline; 
+}
+.blue {
+    background: rgb(255, 160, 122);
+    color: black;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+}
+table{
+    border: 2px solid rgb(212, 238, 248);
+    margin: 4rem 0;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td,th{
+    border: 5px solid rgb(212, 238, 248);
+}
+.Education{
+	text-orientation: upright;
+	padding: 20px;
+	font-style: arial;
+}
+.lang{
+	text-orientation: upright;
+	padding: 20px;
+}
+.Hobbies{
+	text-orientation: upright;
+	padding: 20px;
+}
+.cb{
+	text-orientation: upright;
+	padding: 20px;
+}
+.skills{
+	text-orientation: upright;
+	padding: 20px;
+
+}
